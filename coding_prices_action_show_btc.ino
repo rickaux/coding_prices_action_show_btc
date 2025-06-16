@@ -13,8 +13,8 @@
 #include <AsyncTCP.h>
 
 // === WiFi credentials ===
-const char* ssid = "KHUSUS CLOUD";
-const char* password = "aKAganteng06";
+const char* ssid = "ganti dengan nama wifi";
+const char* password = "ganti dengan pw";
 
 // === CryptoCompare API Key & Endpoint ===
 const char* apiKey = "gantii dengan api kalian";
